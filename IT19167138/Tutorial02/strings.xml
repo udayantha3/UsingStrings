@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+	<string name="app_name"> Using Strings</string>
+	<string name="Mag1"> Here, I am the text message 1 </string>
+	<string name="Mag2"> Here, I am the text message 2 </string>
+
+</resources>
